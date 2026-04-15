@@ -1,4 +1,4 @@
-# Automatic Music Transcription - Literature Review
+# Automatic Music Transcription (AMT)- Literature Review
 Duggirala, J., Hiremath, S., & Goyal, U. (2025). Automatic Music Transcription (AMT) - Literature Review. CSES ORCA.
 
 
